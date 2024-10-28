@@ -1,4 +1,4 @@
-# Sst URL Shortener Python API library
+# sst-url-shortener-python-sdk
 
 [![PyPI version](https://img.shields.io/pypi/v/sst_url_shortener.svg)](https://pypi.org/project/sst_url_shortener/)
 
