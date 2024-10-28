@@ -28,7 +28,10 @@ The full API of this library can be found in [api.md](api.md).
 ```python
 from sst_url_shortener import SstURLShortener
 
-client = SstURLShortener()
+client = SstURLShortener(
+    base_url="YOUR_URL_SHORTENER_API_URL",
+    bearer_token="your_secret",
+)
 
 url = client.urls.create(
     original_url="REPLACE_ME",
