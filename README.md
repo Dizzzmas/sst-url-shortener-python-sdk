@@ -2,7 +2,9 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/sst_url_shortener.svg)](https://pypi.org/project/sst_url_shortener/)
 
-The Sst URL Shortener Python library provides convenient access to the Sst URL Shortener REST API from any Python 3.7+
+Project this SDK is for: [sst-url-shortener](https://github.com/Dizzzmas/sst-url-shortener)
+
+The SST URL Shortener Python library provides convenient access to the SST URL Shortener REST API from any Python 3.7+
 application. The library includes type definitions for all request params and response fields,
 and offers both synchronous and asynchronous clients powered by [httpx](https://github.com/encode/httpx).
 
@@ -10,7 +12,7 @@ It is generated with [Stainless](https://www.stainlessapi.com/).
 
 ## Documentation
 
-The REST API documentation can be found on [docs.sst-url-shortener.com](https://docs.sst-url-shortener.com). The full API of this library can be found in [api.md](api.md).
+The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
