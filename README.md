@@ -18,7 +18,7 @@ The full API of this library can be found in [api.md](api.md).
 
 ```sh
 # install from PyPI
-pip install --pre sst_url_shortener
+pip install sst_url_shortener
 ```
 
 ## Usage
