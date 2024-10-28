@@ -16,7 +16,7 @@ The REST API documentation can be found on [docs.sst-url-shortener.com](https://
 
 ```sh
 # install from PyPI
-pip install --pre sst_url_shortener
+pip install sst_url_shortener
 ```
 
 ## Usage
